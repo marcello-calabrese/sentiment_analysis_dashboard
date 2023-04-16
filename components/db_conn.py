@@ -4,5 +4,5 @@ CONN = psycopg2.connect(
     host = 'localhost',
     dbname = 'Cars_Review',
     user = 'postgres',
-    password = 'Lorenzo_22',
+    password = 'XXXXX',
     port = '5432')
