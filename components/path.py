@@ -1,1 +1,1 @@
-PATH = 'C:/Users/marce/Desktop/Python/pythoncheatsheets/python_projects/Cars_review_sentinment/combined_cars_reviews.csv'
+PATH = 'C:/XXX/XXXX/Desktop/XXXX/XXXXX/python_projects/Cars_review_sentinment/combined_cars_reviews.csv'
