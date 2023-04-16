@@ -1,0 +1,6 @@
+[ 2023-04-14 22:28:39,521 ] 52 root - INFO - Starting Sentiment Analysis
+[ 2023-04-14 22:29:10,400 ] 59 root - INFO - Sentiment Analysis Completed
+[ 2023-04-14 22:29:10,400 ] 79 root - INFO - Starting Keyword Extraction
+[ 2023-04-14 22:29:38,806 ] 83 root - INFO - Keyword Extraction Completed
+[ 2023-04-14 22:29:38,806 ] 86 root - INFO - Inserting Sentiment Data into Database...
+[ 2023-04-14 22:29:39,187 ] 90 root - INFO - Sentiment Data Inserted into Database

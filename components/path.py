@@ -1,0 +1,1 @@
+PATH = 'C:/Users/marce/Desktop/Python/pythoncheatsheets/python_projects/Cars_review_sentinment/combined_cars_reviews.csv'
